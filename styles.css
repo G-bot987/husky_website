@@ -1,0 +1,21 @@
+#hsk1  {height: 100px;
+        width: 100px;
+        margin-left:auto;
+        margin-right:auto;
+        display:block
+    }
+#hsk2 {height: 100px;
+        width: 100px;
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
+    }
+
+    body {
+        background-image: url("https://www.civilsociety.co.uk/uploads/assets/8f52799a-5512-4520-9bb632a2a84d88ed/article_img_detail_5ba532e110cf7bcee7b0d6e49c027c8b/Dogs-Trust-440.jpg"), url("https://i.pinimg.com/600x315/2b/24/f5/2b24f5a58c2761c9b6664af8d46ac03a.jpg");
+        background-repeat:round;
+        border-image-slice: 30;
+        background-position: top, right ;
+        border: 20px solid transparent;
+        background-color: aqua;
+        }
