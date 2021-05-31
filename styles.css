@@ -1,14 +1,14 @@
 #hsk1  {height: 100px;
         width: 100px;
-        margin-left:auto;
-        margin-right:auto;
-        display:block
-    }
+        margin-left: 200px;
+        margin-right: auto;}
+      
 #hsk2 {height: 100px;
         width: 100px;
-        margin-left:auto;
-        margin-right:auto;
-        display:block;
+        margin-left: auto;
+        margin-right: auto;
+      
+        
     }
 
  body {
@@ -19,11 +19,14 @@
 
 h1{text-align: center;
     }
-.div1 {text-align: center; 
+.scrollbar {text-align: center; 
+        font-size: 30px;
         margin:auto;
          width:700px;
         height: 25px;
-        border: 4px solid blueviolet ;
+        border: 4px solid rgb(72, 9, 85);
+        padding: auto;
+        padding-bottom: 10px;
     }
 
 .div2{text-align: center;
@@ -40,3 +43,9 @@ margin-right: auto;}
 .video{ position: relative;left: 140px;}
 
 .huskynames{position: relative;left: 400px;}
+
+#btngame{border: 15px solid black;
+    float: left;
+    width: 33.33%;
+padding: 5px;
+}

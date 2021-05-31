@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.address {
+    border: 15px solid black;
+    display: flex;
+}
+input{ display: block;}
+.test {
+    background-color: black;
+}
+
+.A1 {
+    color: cornflowerblue;
+}
+
+#B1 {
+    color: darkgreen;
+}
