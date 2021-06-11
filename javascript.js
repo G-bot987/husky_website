@@ -14,3 +14,7 @@ $("document").ready(function(){
     })
 
 })
+$("#reset").on("click", function() {
+    $("#hsk1").animate({height:"100px", width:"100px"}, "fast");
+    $("#hsk2").animate({height:"100px", width:"100px"}, "fast");
+})
